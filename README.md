@@ -1,2 +1,2 @@
-# vendingmachine
-Computer Algorithm Team Project
+# teamproject
+자판기 만드는 프로젝트
